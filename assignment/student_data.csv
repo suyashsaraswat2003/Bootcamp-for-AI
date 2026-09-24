@@ -1,0 +1,17 @@
+Student_ID,Name,Age,Email,City,Marks
+ST001, Suyash Saraswat ,22,suyash@gmail.com, Delhi,85
+ST002,rahul sharma,21,rahul@gmail.com ,mumbai ,90
+ST003,PRIYA SINGH,,PRIYA@GMAIL.COM,DELHI,78
+ST004, Amit Kumar!!,23,amit@gmail.com,Bangalore,95
+ST005,Neha Verma ,twenty,neha@gmail.com, Mumbai,invalid
+ST006, rohan mehta,22,rohan@gmail.com,chennai,88
+ST007,Anjali Gupta,21,anjali@gmail.com,Delhi ,92
+ST008,VIKAS YADAV,24,vikas@gmail.com, MUMBAI,105
+ST009, Pooja Shah,22,pooja@gmail.com,Bangalore ,76
+ST010,Karan Patel ,,karan@gmail.com,Delhi,89
+ST011,Sneha Rao,23,sneha@gmail.com,CHENNAI,
+ST012, ARJUN REDDY,21,arjun@gmail.com, Hyderabad ,94
+ST013,Meena Joshi,22,meena@gmail.com,Delhi,81
+ST014,Ravi Kumar,150,ravi@gmail,Mumbai,-10
+ST015, Simran Kaur ,21,simran@gmail.com,mumbai ,87
+ST005,Neha Verma ,22,neha@gmail.com, Mumbai,88
